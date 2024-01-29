@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saketh8332k/387.git/static/css/main.f855e6bc.css",
+    "main.js": "/saketh8332k/387.git/static/js/main.9d83a3e4.js",
+    "static/js/787.47fa803c.chunk.js": "/saketh8332k/387.git/static/js/787.47fa803c.chunk.js",
+    "static/media/logo.svg": "/saketh8332k/387.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saketh8332k/387.git/index.html",
+    "main.f855e6bc.css.map": "/saketh8332k/387.git/static/css/main.f855e6bc.css.map",
+    "main.9d83a3e4.js.map": "/saketh8332k/387.git/static/js/main.9d83a3e4.js.map",
+    "787.47fa803c.chunk.js.map": "/saketh8332k/387.git/static/js/787.47fa803c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9d83a3e4.js"
+  ]
+}
